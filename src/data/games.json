@@ -1,0 +1,101 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Slide tiles containing numbers in a grid to combine them and create a tile with the number 2048.",
+    "iframeUrl": "https://gabrielecirulli.github.io/2048/",
+    "category": "Puzzle",
+    "instructions": "Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!",
+    "controls": "Arrow keys to shift tiles; combine similar numbers to keep the board free.",
+    "creator": "Gabriele Cirulli",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "High-velocity hexagonal puzzle matching. Rotate the hexagon to catch colored bricks as they fall from outer sectors.",
+    "iframeUrl": "https://hextris.github.io/hextris/",
+    "category": "Arcade",
+    "instructions": "Rotate the central hexagon to align three or more blocks of the same color to make them disappear.",
+    "controls": "Left / Right Arrow keys (or A / D keys) to rotate the hexagon.",
+    "creator": "Hextris Team",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man HTML5",
+    "description": "Classic 1980 arcade maze retro game. Guide Pac-Man through a maze of dots while avoiding the four colorful ghosts.",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "category": "Retro",
+    "instructions": "Eat all dots in the chamber to advance to the next level. Grab glowing power pellets to temporarily eat ghosts!",
+    "controls": "Arrow keys to steer Pac-Man and navigate the maze.",
+    "creator": "Google Pacman Clone",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "tetris",
+    "title": "Classic Brick Game",
+    "description": "Immersive classic brick game. Complete horizontal lines of blocks to clear rows and prevent the grid from filling up.",
+    "iframeUrl": "https://chvin.github.io/react-tetris/",
+    "category": "Puzzle",
+    "instructions": "Manage falling brick tetrominoes by rotating and aligning them to complete continuous flat lines.",
+    "controls": "Left/Right arrow to shift, Up to rotate, Down for soft drop, Space for hard drop.",
+    "creator": "React Tetris Team",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "trex",
+    "title": "T-Rex Chrome Runner",
+    "description": "Run across an endless desert landscape, leaping over sharp cactus groves and pterodactyl birds.",
+    "iframeUrl": "https://wayou.github.io/t-rex-runner/",
+    "category": "Arcade",
+    "instructions": "Help the Lonely T-Rex jump or duck to avoid obstacles. Speed increases as you travel further.",
+    "controls": "Spacebar or Up Arrow to Jump; Down Arrow to Duck.",
+    "creator": "Chromium Team",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "space-invaders",
+    "title": "Space Invaders",
+    "description": "Classic space shooter where you defend the planet from descending ranks of alien invaders.",
+    "iframeUrl": "https://marianosimone.github.io/space-invaders/",
+    "category": "Retro",
+    "instructions": "Shoot oncoming alien ships and hide behind protective bunkers as alien lasers fly down.",
+    "controls": "Left / Right arrow keys to move ship; Spacebar to shoot lasers.",
+    "creator": "Mariano Simone",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "tower-game",
+    "title": "Tower Building",
+    "description": "A game of reflexes. Drop swinging skyscraper floors on top of each other to build the tallest, most stable tower.",
+    "iframeUrl": "https://zhanyouwei.github.io/tower_game/",
+    "category": "Strategy",
+    "instructions": "Tap or click at the precise millisecond when the floor swings directly above your tower foundation.",
+    "controls": "Click or press Spacebar to release and drop the swinging floor element.",
+    "creator": "Youwei Zhan",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "asteroids",
+    "title": "Asteroids Classic",
+    "description": "Navigate a vector spacecraft through an intense field of crashing space rocks and enemy flying saucers.",
+    "iframeUrl": "https://dr-freeman.github.io/Asteroids/",
+    "category": "Retro",
+    "instructions": "Maneuver your ship, turn to aim, fire thrusters to propel yourself, and shoot to break asteroids into tiny bits.",
+    "controls": "Left / Right Arrows to turn; Up Arrow to thrust; Spacebar to shoot; Enter for hyperspace.",
+    "creator": "Dr. Freeman",
+    "thumbnailUrl": ""
+  },
+  {
+    "id": "clumsy-bird",
+    "title": "Clumsy Bird",
+    "description": "Help the tiny clumsy bird flap its way past green pipes. Simple mechanics, high difficulty, addictive gameplay.",
+    "iframeUrl": "https://ellisonleao.github.io/clumsy-bird/",
+    "category": "Arcade",
+    "instructions": "Flap your wings to stay airborne and time your climbs to match the openings between overhead and underfoot obstacles.",
+    "controls": "Press Spacebar, Up Arrow, or Click to flap and elevate.",
+    "creator": "Ellison Leao",
+    "thumbnailUrl": ""
+  }
+]

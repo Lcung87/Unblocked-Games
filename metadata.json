@@ -1,0 +1,9 @@
+{
+  "name": "Unblocked Games Portal",
+  "description": "A high-performance unblocked HTML5 arcade and puzzle games portal featuring popular classic games, search, categories, and direct custom iframe additions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
